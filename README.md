@@ -71,7 +71,7 @@ Ein signifikanter Interaktionseffekt (F(2,639) = 5.05,p = 0.007) zeigte, dass di
 - Aufgrund dieser differentiellen Wahrnehmung wurden die Hauptanalysen zur Beantwortung der Forschungsfragen ausschließlich mit den moderaten Fällen (n = 324) durchgeführt, um konfundierende Effekte zu vermeiden.
 
 <p align="center">
-  <img src="figures/interaktionseffekt.png" width="650"/>
+  <img src="figures/Interaktionseffekt.png" width="650"/>
 </p>
 
 
@@ -80,7 +80,7 @@ Ein signifikanter Interaktionseffekt (F(2,639) = 5.05,p = 0.007) zeigte, dass di
 #...
 ---
 
-## Wesentliche Erkenntnisse
+## 💡 Wesentliche Erkenntnisse
 
 ### Hypothese 1: Einfluss des Kommunikationsstils auf die affektive Polarisierung
 Wir untersuchten, ob ein faktenbasierter Chatbot-Stil die Polarisierung verstärkt (H1a) und ob eine Mischform diese reduziert (H1b).
