@@ -1,16 +1,18 @@
 # Wenn Worte Brücken bauen: Kommunikationsstile von Chatbots und die Effekte auf Reaktanz und affektive Polarisierung
 
-Dieses Repository enthält die offizielle Analyse unseres Projekts **"Wenn Worte Brücken bauen: Kommunikationsstile von Chatbots und die Effekte auf Reaktanz und affektive Polarisierung"**, das im Rahmen des Masterprojekts "KI & politische Diskurse: Kann man LLMS nutzen, um Probleme politischer Diskurse zu lösen?" mit Daten des XXX durchgeführt wurde.
+Dieses Repository enthält die offizielle Analyse unseres Projekts **"Wenn Worte Brücken bauen: Kommunikationsstile von Chatbots und die Effekte auf Reaktanz und affektive Polarisierung"**, das im Rahmen des Masterprojekts "KI & politische Diskurse: Kann man LLMS nutzen, um Probleme politischer Diskurse zu lösen?" durchgeführt wurde.
 
 ## Untersuchungsgegenstand
-Wir untersuchen im Rahmen eines Online-Experiments, wie unterschiedliche Kommunikationsstile **(empathisch, faktenbasiert, gemischt)** von LLM-basierten Chatbots die Wahrnehmung und Einstellung von Nutzer:innen in politischen Diskursen beeinflussen. 
+Wir untersuchten mit einem Online-Experiments, wie unterschiedliche **Kommunikationsstile (empathisch, faktenbasiert, gemischt)** von LLM-basierten Chatbots die Wahrnehmung und Einstellung von Nutzer:innen in politischen Diskursen beeinflussen. 
 
 ### Zentrale Konstrukte: 
 
-- **Affektive Polarisierung**: Messung der emotionalen Distanz zwischen Ingroup und Outgroup.
-- **Psychologische Reaktanz**:XXX
-- **Wahrgenommene Authentizität und Vertrauen in den Chatbot**: XXX
-- **Kommunikationsstile**: Experimentelle Variation zwischen empathischem, faktenbasiertem und gemischtem Stil.
+- **Affektive Polarisierung**: Wachsende Kluft zwischen gesellschaftlichen Gruppen, die sich durch gegenseitige Ablehnung, Misstrauen und Animositäten gegenüber anderen politischen Akteuren (**Soziale Identitätstheorie (SIT)** nach Tajfel und Turner (1979)).
+
+- **Psychologische Reaktanz**: Ein motivationaler Zustand zur Wiederherstellung bedrohter Freiheitsspielräume; Backfire-Effekt.
+- **Wahrgenommene Authentizität und Vertrauen in den Chatbot**: Zentrale Faktoren in der Mensch-KI-Interaktion, die bestimmen, ob Nutzer:innen Informationen akzeptieren oder defensiv reagieren. Vertrauen basiert auf der Erwartung, dass sich das System gemäß sozialer Normen vorhersehbar verhält (**CASA-Paradigma & Anthropomorphismus, Stereotype Content Model**).
+
+- **Kommunikationsstile**: Experimentelle Variation zwischen **empathischem** (Fokus auf soziale Nähe und kognitive Empathie - erzeugt Wärme), **faktenbasiertem** (sachliche, effiziente Informationsvermittlung - betont Kompetenz) und **gemischtem** Stil (Kombination beider Stile zur Maximierung von Vertrauen und Reduktion von Vorurteilen - verbindet Wärme & Kompetenz).
 
 ## Forschungsleitendes Modell
 
@@ -57,7 +59,7 @@ Die Daten wurden im Rahmen einer standardisierten Online-Befragung mit integrier
 - **Einstellung zu Migration**: 276 Teilnehmende befürworten klar eine Obergrenze für Asylbewerber. Es zeigt sich ein schwacher Zusammenhang zwischen Alter und Einstellung: Ältere Personen lehnen Obergrenzen eher ab, ordnen sich aber gleichzeitig eher dem rechten Spektrum zu. 
 
 <p align="center">
-  <img src="figures/altersverteilung.png" width="650"/>
+  <img src="figures/Altersverteilung.png" width="650"/>
 </p>
 
 
@@ -75,36 +77,7 @@ Ein signifikanter Interaktionseffekt (F(2,639) = 5.05,p = 0.007) zeigte, dass di
 
 
 ---
-## Visualisierungen (Auszug)
-
-### Verteilung der Teilnehmer:innen nach Bundesland
-
-Anteil der Befragten je Bundesland in relativen Häufigkeiten
-
-<p align="center">
-  <img src="figures/karte_anteile_bundeslaender.png" width="500"/>
-</p>
-
----
-
-### Nutzung klassischer Medien & politisches Interesse
-
-Untersuchung des Zusammenhangs zwischen politischem Interesse und klassischer Mediennutzung
-
-<p align="center">
-  <img src="figures/mediennutzung_pol_interesse.png" width="650"/>
-</p>
-
----
-
-### Demokratiezufriedenheit & Einkommen
-
-Untersuchung der Demokratiezufriedenheit nach Einkommensgruppen
-
-<p align="center">
-  <img src="figures/demokratiezufriedenheit.png" width="650"/>
-</p>
-
+#...
 ---
 
 ## Wesentliche Erkenntnisse
