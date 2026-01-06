@@ -106,7 +106,7 @@ In diesem Analyseschritt untersuchten wir den Zusammenhang zwischen dem Vertraue
 ### Hypothese 3: Reaktanz als psychologischer Vermittler (Mediation)
 In der Mediationsanalyse prüften wir, ob der Kommunikationsstil des Chatbots nicht direkt, sondern über das Auslösen von Reaktanz die affektive Polarisierung beeinflusst.
 
-- **Bestätigung der Mediation (H3a):** Für den faktenbasierten Kommunikationsstil konnte eine vollständige Mediation nachgewiesen werden. Das bedeutet: Der Stil führt zu erhöhter Reaktanz (β = 0.34,p < .01), welche wiederum die affektive Polarisierung signifikant verstärkt (β = 0.72,p < .001).
+- **Bestätigung der Mediation (H3a):** Für den faktenbasierten Kommunikationsstil konnte eine vollständige Mediation nachgewiesen werden. Das bedeutet: Der Stil führt zu erhöhter Reaktanz (β = 0.34, p < .01), welche wiederum die affektive Polarisierung signifikant verstärkt (β = 0.72, p < .001).
 
 - **Vollständige Mediation:** Besonders bemerkenswert ist, dass der direkte Einfluss des faktenbasierten Stils auf die Polarisierung vollständig verschwand, sobald die Reaktanz als Vermittler berücksichtigt wurde (β = −0.004,p = .992). Die psychologische Abwehrreaktion ist somit der entscheidende Treiber für den Backfire-Effekt.
 
