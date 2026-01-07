@@ -58,6 +58,17 @@ Die Daten wurden im Rahmen einer standardisierten Online-Befragung mit integrier
 - **Politische Einstellung**: Die Befragten ordnen sich im Mittel der politischen Mitte zu (M= 6.06 auf einer 11er-Skala), wobei Männer signifikant weiter rechts stehen als Frauen.
 - **Einstellung zu Migration**: 276 Teilnehmende befürworten klar eine Obergrenze für Asylbewerber. Es zeigt sich ein schwacher Zusammenhang zwischen Alter und Einstellung: Ältere Personen lehnen Obergrenzen eher ab, ordnen sich aber gleichzeitig eher dem rechten Spektrum zu. 
 
+<br>
+
+| Abschluss | Relative Häufigkeit (%) |
+|---|---:|
+| mittlere Reife, Realschulabschluss bzw. Polytechnische Oberschule mit Abschluss 10. Klasse | 50.1 |
+| abgeschlossenes Hochschulstudium (Uni/FH) | 27.0 |
+| Abitur bzw. Erweiterte Oberschule mit Abschluss 12. Klasse (Hochschulreife) | 13.6 |
+| Fachhochschulreife (Abschluss einer Fachoberschule etc.) | 9.3 |
+
+<br><br>
+  
 <p align="center">
   <img src="figures/Altersverteilung.png" width="650"/>
 </p>
