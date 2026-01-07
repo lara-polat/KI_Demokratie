@@ -36,13 +36,11 @@ pip install -r requirements.txt
 
 ```
 .
-├── Project_Intensivnutzung.ipynb # Gesamtes Python Projekt
-├── README.md # Projektbeschreibung
-├── requirements.txt # Benötigte Python-Pakete
-├── figures/ # Auszug relevanter Visualisierungen
-│ ├── karte_anteile_bundeslaender.png # Anteil Teilnehmender je Bundesland
-│ ├── mediennutzung_pol_interesse.png # Mediennutzung & politisches Interesse
-│ └── demokratiezufriedenheit.png #Demokratiezufriedenheit & Einkommen
+├── analysis_ki_demokratie.ipynb    # Statistische Auswertungen
+├── README.md                       # Projektbeschreibung & Dokumentation
+├── requirements.txt                # Benötigte Python-Pakete (aktuellste Versionen)
+├── .gitignore                      
+└── figures/                        # Visualisierungen
 ```
 
 ---
