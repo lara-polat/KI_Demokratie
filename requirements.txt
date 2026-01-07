@@ -1,0 +1,12 @@
+# Datenmanipulation und Berechnung
+pandas>=2.2.3
+numpy>=2.1.0
+
+# Statistik und wissenschaftliche Berechnungen
+scipy>=1.14.0
+statsmodels>=0.14.4
+scikit-posthocs>=0.9.0
+
+# Datenvisualisierung
+matplotlib>=3.10.0
+seaborn>=0.13.2
