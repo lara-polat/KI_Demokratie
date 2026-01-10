@@ -5,6 +5,11 @@
 <tr>
 <td>
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ2M2w1bjgwMXN3ZnU1c20wZGZlcHR0Yml1OHIyM3B3MzhhbnJkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f03np8FngnDDweFsCR/giphy.gif" width="175" height="175"/>
+
+</td>
+<td>
+
 Dieses Repository enthält die Analysen unseres Forschungsprojekts, das im Rahmen des Masterprojekts "KI & politische Diskurse: Kann man LLMS nutzen, um Probleme politischer Diskurse zu lösen?" am Institut für Kommunikationswissenschaft und Medienforschung (IfKW) der LMU München durchgeführt wurde. Wir untersuchen, ob LLM-basierte Chatbots als "Brückenbauer" in politisch aufgeladenen Debatten fungieren können.
 
 
