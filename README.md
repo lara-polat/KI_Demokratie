@@ -33,7 +33,8 @@ In einem quantitativen Online-Experiment (*N* = 645) wurde untersucht, wie versc
 
 - **Wahrgenommene Authentizität und Vertrauen in den Chatbot**: Bestimmen, ob Nutzer:innen Informationen akzeptieren oder defensiv reagieren. Vertrauen entsteht, wenn KI-Systeme soziale Heuristiken erfüllen **(CASA-Paradigma)** oder menschliche Eigenschaften zugeschrieben bekommen (**Anthropomorphismus**).
 
-**Stereotype Content Model (Fiske et al., 2007): Einordnung der Kommunikationsstile entlang der Dimensionen Wärme und Kompetenz**
+**Stereotype Content Model (Fiske et al., 2007):** 
+Einordnung der Kommunikationsstile entlang der Dimensionen Wärme und Kompetenz.
 
 <p align="center">
   <img src="figures/fiske.png" width="600"/>
