@@ -10,7 +10,7 @@
 </td>
 <td>
 
-Dieses Repository enthält die Analysen unseres Forschungsprojekts, das im Rahmen des Masterprojekts **KI & politische Diskurse: Kann man LLMS nutzen, um Probleme politischer Diskurse zu lösen?** am Institut für Kommunikationswissenschaft und Medienforschung (IfKW) der LMU München durchgeführt wurde. Wir untersuchen, ob LLM-basierte Chatbots als "Brückenbauer" in politisch aufgeladenen Debatten fungieren können.
+Dieses Repository enthält die Analysen unseres Forschungsprojekts, das im Rahmen des Masterprojekts **KI & politische Diskurse: Kann man LLMS nutzen, um Probleme politischer Diskurse zu lösen?** am Institut für Kommunikationswissenschaft und Medienforschung (IfKW) der LMU München durchgeführt wurde. Angesichts wachsender gesellschaftlicher Spaltung untersuchen wir, ob LLM-basierte Chatbots in hochemotionalen Debatten - wie der über Migration - als digitale "Brückenbauer" fungieren können. Durch gezielte Kommunikationsstile sollen sie psychologische Widerstände abbauen und so einen Beitrag zur Reduktion affektiver Polarisierung leisten. 
 
 
 </td>
@@ -23,17 +23,17 @@ Dieses Repository enthält die Analysen unseres Forschungsprojekts, das im Rahme
 </table>
 
 ## 🎯 Forschungsgegenstand
-In einem Online-Experiment (*N* = 645) wurde untersucht, wie verschiedene **Kommunikationsstile (empathisch, faktenbasiert, gemischt)** von Chatbots psychologische Abwehrreaktionen (Reaktanz) und die affektive Polarisierung in der Migrationsdebatte beeinflussen. 
+In einem quantitativen Online-Experiment (*N* = 645) wurde untersucht, wie verschiedene **Kommunikationsstile (empathisch, faktenbasiert, gemischt)** von Chatbots die psychologische Reaktanz und die affektive Polarisierung beeinflussen. 
 
 ### Zentrale Konstrukte & Theorie: 
 
-- **Affektive Polarisierung**: Wachsende Kluft zwischen gesellschaftlichen Gruppen, die sich durch gegenseitige Ablehnung, Misstrauen und Animositäten gegenüber anderen politischen Akteuren (**Soziale Identitätstheorie (SIT)** nach Tajfel und Turner (1979)).
+- **Affektive Polarisierung**: Beschreibt die wachsende Kluft zwischen gesellschaftlichen Gruppen, die durch gegenseitige Ablehnung, Misstrauen und Animositäten gegenüber anderen politischen Akteuren geprägt ist. Sie wird maßgeblich durch die Identifikation mit der eigenen Gruppe erklärt (**Soziale Identitätstheorie (SIT)** nach Tajfel und Turner (1979)).
 
-- **Psychologische Reaktanz**: Abwehrreaktion (Backfire-Effekt) bei empfundener Freiheitseinschränkung der eigenen Meinung (Literatur).
+- **Psychologische Reaktanz**: Ein motivationaler Zustand, der auf die Wiederherstellung bedrohter Freiheitsspielräume (wie die eigene Meinung) abzielt. In politischen Diskursen fungiert sie als Mediator für den Backfire-Effekt: Wird ein Gegenstandpunkt als Bedrohung der Autonomie wahrgenommen, verstärkt dies die Polarisierung, statt sie abzubauen.
 
-- **Wahrgenommene Authentizität und Vertrauen in den Chatbot**: Zentrale Faktoren in der Mensch-KI-Interaktion, die bestimmen, ob Nutzer:innen Informationen akzeptieren oder defensiv reagieren. Vertrauen basiert auf der Erwartung, dass sich das System gemäß sozialer Normen vorhersehbar verhält (**CASA-Paradigma & Anthropomorphismus, Stereotype Content Model**).
+- **Wahrgenommene Authentizität und Vertrauen in den Chatbot**: Bestimmen, ob Nutzer:innen Informationen akzeptieren oder defensiv reagieren. Vertrauen entsteht, wenn KI-Systeme soziale Heuristiken erfüllen **(CASA-Paradigma)** oder menschliche Eigenschaften zugeschrieben bekommen (**Anthropomorphismus**).
 
-Einordnung der Kommunikationsstile entlang der Dimensionen Wärme und Kompetenz nach Fiske et al. (2007)
+**Stereotype Content Model (Fiske et al., 2007): Einordnung der Kommunikationsstile entlang der Dimensionen Wärme und Kompetenz**
 
 <p align="center">
   <img src="figures/fiske.png" width="600"/>
@@ -50,12 +50,12 @@ Einordnung der Kommunikationsstile entlang der Dimensionen Wärme und Kompetenz 
 ## 📊 Methodik & Stichprobe
 Die Datenerhebung erfolgte im September 2025 via Payback-Panel.
 
--  **Design**: Einfaktoirelles Between-Subject-Design (empathisch vs. faktenbasiert vs. gemischt).
+-  **Design**: Einfaktorielles Between-Subject-Design (empathisch vs. faktenbasiert vs. gemischt).
 - **Setting**: Cross-Cutting-Exposure (Chatbot vetritt konsequent die Gegenposition der Teilnehmer:innen)
 - **Stichprobe** (N = 645)
-  - Männer: *n* = 326 | Frauen: *n* =318.
-  - Altersdurchschnitt: 44.5 Jahre.
-  - Bildung: Über 50% Realschulabschluss, 27% Hochschulabschluss.
+  - Männer: *n* = 326 | Frauen: *n* = 318.
+  - **Altersdurchschnitt:** 44.5 Jahre.
+  - **Bildung:** Über 50% Realschulabschluss, 27% Hochschulabschluss.
   - **Politische Einstellung**: Die Befragten ordnen sich im Mittel der politischen Mitte zu (*M* = 6.06 auf einer 11er-Skala), wobei Männer signifikant weiter rechts stehen als Frauen.
   - **Einstellung zu Migration**: 42.8% der Teilnehmer:innen befürworten klar eine Obergrenze für Asylbewerber. Es zeigt sich ein schwacher Zusammenhang zwischen Alter und Einstellung: Ältere Personen lehnen Obergrenzen eher ab, ordnen sich aber gleichzeitig eher dem rechten Spektrum zu. 
 
@@ -140,6 +140,6 @@ pip install -r requirements.txt
 
 ---
 
-# Hinweise
+## Hinweise
 
 Dieses Projekt ist Teil eines universitären Forschungsprojekts und dient ausschließlich zu Analyse- und Lernzwecken.
