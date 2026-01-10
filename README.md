@@ -1,33 +1,21 @@
 # Wenn Worte Brücken bauen
-## Kommunikationsstile von Chatbots und Effekte auf Reaktanz & affektive Polarisierung
+## Kommunikationsstile von Chatbots und die Effekte auf Reaktanz und affektive Polarisierung
+
 <table>
 <tr>
 <td>
 
-Dieses Repository enthält die Analysen eines Forschungsprojekts am IfKW der LMU München. Untersucht wird, ob LLM-Chatbots als „Brückenbauer“ in politisch aufgeladenen Debatten wirken können.
+Dieses Repository enthält die Analysen unseres Forschungsprojekts, das im Rahmen des Masterprojekts "KI & politische Diskurse: Kann man LLMS nutzen, um Probleme politischer Diskurse zu lösen?" am Institut für Kommunikationswissenschaft und Medienforschung (IfKW) der LMU München durchgeführt wurde. Wir untersuchen, ob LLM-basierte Chatbots als "Brückenbauer" in politisch aufgeladenen Debatten fungieren können.
 
-## 🎯 Forschungsgegenstand
-Online-Experiment (N=645) zu **Kommunikationsstilen** (empathisch, faktenbasiert, gemischt) und deren Einfluss auf **Reaktanz** sowie **affektive Polarisierung** in der Migrationsdebatte.
 
 </td>
 <td>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ2M2w1bjgwMXN3ZnU1c20wZGZlcHR0Yml1OHIyM3B3MzhhbnJkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f03np8FngnDDweFsCR/giphy.gif" width="250" height="250"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ2M2w1bjgwMXN3ZnU1c20wZGZlcHR0Yml1OHIyM3B3MzhhbnJkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f03np8FngnDDweFsCR/giphy.gif" width="175" height="175"/>
 
 </td>
 </tr>
 </table>
-
-
-
-
-# Wenn Worte Brücken bauen: 
-## Kommunikationsstile von Chatbots und die Effekte auf Reaktanz und affektive Polarisierung
-
-Dieses Repository enthält die Analysen unseres Forschungsprojekts, das im Rahmen des Masterprojekts "KI & politische Diskurse: Kann man LLMS nutzen, um Probleme politischer Diskurse zu lösen?" am Institut für Kommunikationswissenschaft und Medienforschung (IfKW) der LMU München durchgeführt wurde. Wir untersuchen, ob LLM-basierte Chatbots als "Brückenbauer" in politisch aufgeladenen Debatten fungieren können.
-
-<h3 align="center" > <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ2M2w1bjgwMXN3ZnU1c20wZGZlcHR0Yml1OHIyM3B3MzhhbnJkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f03np8FngnDDweFsCR/giphy.gif" width="300" height="300" style="margin-right: 10px;"></h3>
-
 
 ## 🎯 Forschungsgegenstand
 In einem Online-Experiment (N = 645) wurde unterscuht, wie verschiedene **Kommunikationsstile (empathisch, faktenbasiert, gemischt)** von Chatbots psychologische Abwehrreaktionen (Reaktanz) und die affektive Polarisierung in der Migrationsdebatte beeinflussen. 
@@ -41,13 +29,13 @@ In einem Online-Experiment (N = 645) wurde unterscuht, wie verschiedene **Kommun
 - **Wahrgenommene Authentizität und Vertrauen in den Chatbot**: Zentrale Faktoren in der Mensch-KI-Interaktion, die bestimmen, ob Nutzer:innen Informationen akzeptieren oder defensiv reagieren. Vertrauen basiert auf der Erwartung, dass sich das System gemäß sozialer Normen vorhersehbar verhält (**CASA-Paradigma & Anthropomorphismus, Stereotype Content Model**).
 
 <p align="center">
-  <img src="figures/fiske.png" width="500"/>
+  <img src="figures/fiske.png" width="600"/>
 </p>
 
 ## Forschungsleitendes Modell
 
 <p align="center">
-  <img src="figures/forschungsmodell1.png" width="500"/>
+  <img src="figures/forschungsmodell1.png" width="600"/>
 </p>
 
 ---
