@@ -1,18 +1,48 @@
-# Wenn Worte Brücken bauen: Kommunikationsstile von Chatbots und die Effekte auf Reaktanz und affektive Polarisierung
+# Wenn Worte Brücken bauen
+## Kommunikationsstile von Chatbots und Effekte auf Reaktanz & affektive Polarisierung
+<table>
+<tr>
+<td>
 
-Dieses Repository enthält die offizielle Analyse unseres Projekts **"Wenn Worte Brücken bauen: Kommunikationsstile von Chatbots und die Effekte auf Reaktanz und affektive Polarisierung"**, das im Rahmen des Masterprojekts "KI & politische Diskurse: Kann man LLMS nutzen, um Probleme politischer Diskurse zu lösen?" durchgeführt wurde.
+Dieses Repository enthält die Analysen eines Forschungsprojekts am IfKW der LMU München. Untersucht wird, ob LLM-Chatbots als „Brückenbauer“ in politisch aufgeladenen Debatten wirken können.
 
-## Untersuchungsgegenstand
-Wir untersuchten mit einem Online-Experiments, wie unterschiedliche **Kommunikationsstile (empathisch, faktenbasiert, gemischt)** von LLM-basierten Chatbots die Wahrnehmung und Einstellung von Nutzer:innen in politischen Diskursen beeinflussen. 
+## 🎯 Forschungsgegenstand
+Online-Experiment (N=645) zu **Kommunikationsstilen** (empathisch, faktenbasiert, gemischt) und deren Einfluss auf **Reaktanz** sowie **affektive Polarisierung** in der Migrationsdebatte.
 
-### Zentrale Konstrukte: 
+</td>
+<td>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ2M2w1bjgwMXN3ZnU1c20wZGZlcHR0Yml1OHIyM3B3MzhhbnJkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f03np8FngnDDweFsCR/giphy.gif" width="250" height="250"/>
+
+</td>
+</tr>
+</table>
+
+
+
+
+# Wenn Worte Brücken bauen: 
+## Kommunikationsstile von Chatbots und die Effekte auf Reaktanz und affektive Polarisierung
+
+Dieses Repository enthält die Analysen unseres Forschungsprojekts, das im Rahmen des Masterprojekts "KI & politische Diskurse: Kann man LLMS nutzen, um Probleme politischer Diskurse zu lösen?" am Institut für Kommunikationswissenschaft und Medienforschung (IfKW) der LMU München durchgeführt wurde. Wir untersuchen, ob LLM-basierte Chatbots als "Brückenbauer" in politisch aufgeladenen Debatten fungieren können.
+
+<h3 align="center" > <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ2M2w1bjgwMXN3ZnU1c20wZGZlcHR0Yml1OHIyM3B3MzhhbnJkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f03np8FngnDDweFsCR/giphy.gif" width="300" height="300" style="margin-right: 10px;"></h3>
+
+
+## 🎯 Forschungsgegenstand
+In einem Online-Experiment (N = 645) wurde unterscuht, wie verschiedene **Kommunikationsstile (empathisch, faktenbasiert, gemischt)** von Chatbots psychologische Abwehrreaktionen (Reaktanz) und die affektive Polarisierung in der Migrationsdebatte beeinflussen. 
+
+### Zentrale Konstrukte & Theorie: 
 
 - **Affektive Polarisierung**: Wachsende Kluft zwischen gesellschaftlichen Gruppen, die sich durch gegenseitige Ablehnung, Misstrauen und Animositäten gegenüber anderen politischen Akteuren (**Soziale Identitätstheorie (SIT)** nach Tajfel und Turner (1979)).
 
-- **Psychologische Reaktanz**: Ein motivationaler Zustand zur Wiederherstellung bedrohter Freiheitsspielräume; Backfire-Effekt.
+- **Psychologische Reaktanz**: Abwhrreaktion (Backfire-Effekt) bei empfundener Freiheitseinschränkung der eigenen Meinung (Literatur).
+
 - **Wahrgenommene Authentizität und Vertrauen in den Chatbot**: Zentrale Faktoren in der Mensch-KI-Interaktion, die bestimmen, ob Nutzer:innen Informationen akzeptieren oder defensiv reagieren. Vertrauen basiert auf der Erwartung, dass sich das System gemäß sozialer Normen vorhersehbar verhält (**CASA-Paradigma & Anthropomorphismus, Stereotype Content Model**).
 
-- **Kommunikationsstile**: Experimentelle Variation zwischen **empathischem** (Fokus auf soziale Nähe und kognitive Empathie - erzeugt Wärme), **faktenbasiertem** (sachliche, effiziente Informationsvermittlung - betont Kompetenz) und **gemischtem** Stil (Kombination beider Stile zur Maximierung von Vertrauen und Reduktion von Vorurteilen - verbindet Wärme & Kompetenz).
+<p align="center">
+  <img src="figures/fiske.png" width="500"/>
+</p>
 
 ## Forschungsleitendes Modell
 
@@ -22,33 +52,13 @@ Wir untersuchten mit einem Online-Experiments, wie unterschiedliche **Kommunikat
 
 ---
 
-## Anforderungen
 
-Alle benötigten Abhängigkeiten können mit folgendem Befehl installiert werden:
+## 📊 Methodik & Stichprobe
+Die Datenerhebung erfolgte im September 2025 via Payback-Panel.
 
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Projektstruktur
-
-```
-.
-├── analysis_ki_demokratie.ipynb    # Statistische Auswertungen
-├── README.md                       # Projektbeschreibung & Dokumentation
-├── requirements.txt                # Benötigte Python-Pakete (aktuellste Versionen)
-├── .gitignore                      
-└── figures/                        # Visualisierungen
-```
-
----
-
-## 📊 Datengrundlage & Stichprobe
-Die Daten wurden im Rahmen einer standardisierten Online-Befragung mit integriertrem Experiment erhoben. Die Rekrutierung der Teilnehmer:innen erfolgte über das **Payback-Panel**.
-
-- 🗓 **Erhebungszeitraum:** Gesamter September 2025. 
+-  **Design**: Einfaktoirelles Between-Subject-Design (empathisch vs. faktenbasiert vs. gemischt).
+- **Setting**: Cross-Cutting-Exposure (Chatbot vetritt konsequent die Gegenposition der Teilnehmer:innen)-
+- **Stichprobe** (N = 645)
 - 🌍 **Zielgruppe:** Personen aus Deutschland (18-59 Jahre) mit Fokus auf höähere Bildung.  
 - 👥 **Stichprobengröße:** 834 Befragte (bereinigt: N = 645)  
 
@@ -83,11 +93,6 @@ Ein signifikanter Interaktionseffekt (F(2,639) = 5.05,p = 0.007) zeigte, dass di
   <img src="figures/Interaktionseffekt.png" width="650"/>
 </p>
 
-
-
----
-#...
----
 
 ## 💡 Wesentliche Erkenntnisse
 
@@ -136,4 +141,31 @@ Zusätzlich zur Gesamtreaktanz untersuchten wir mittels einer multivariaten Vari
 
 - **Fazit zu F1:** Während der gemischte und empathische Stil emotional ähnlich positiv aufgenommen werden, provoziert der rein faktenbasierte Stil über alle Reaktanzdimensionen hinweg deutlich mehr Abwehrverhalten.
 
+---
 
+## Anforderungen
+
+Alle benötigten Abhängigkeiten können mit folgendem Befehl installiert werden:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Projektstruktur
+
+```
+.
+├── analysis_ki_demokratie.ipynb    # Statistische Auswertungen
+├── README.md                       # Projektbeschreibung & Dokumentation
+├── requirements.txt                # Benötigte Python-Pakete (aktuellste Versionen)
+├── .gitignore                      
+└── figures/                        # Visualisierungen
+```
+
+---
+
+# Hinweise
+
+Dieses Projekt ist Teil eines universitären Forschungsprojekts und dient ausschließlich zu Analyse- und Lernzwecken.
