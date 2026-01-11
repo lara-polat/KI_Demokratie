@@ -53,7 +53,7 @@ Tajfel, H., & Turner, J. C. (1979). *An integrative theory of intergroup conflic
 ---
 
 ## 📊 Methodik & Stichprobe
-Die Datenerhebung erfolgte im September 2025 via Payback-Panel.
+Die Datenerhebung erfolgte im November 2025 via Payback-Panel.
 
 -  **Design**: Einfaktorielles Between-Subject-Design (empathisch vs. faktenbasiert vs. gemischt).
 - **Setting**: Cross-Cutting-Exposure (Chatbot vetritt konsequent die Gegenposition der Teilnehmer:innen)
@@ -69,7 +69,7 @@ Die Datenerhebung erfolgte im September 2025 via Payback-Panel.
 Ein signifikanter Interaktionseffekt (*F*(2,639) = 5.05,*p* = 0.007) zeigte, dass die Wahrnehmung des empathischen Kommunikationsstils stark von der Meinungsextremität abhängt:
 
 -  Bei moderater Meinung wurde der empathische KS signifikant stärker als empathisch wahrgenommen (*M* = 4.57) als bei extremer Meinung (*M* = 2.96).
-- Aufgrund dieser differentiellen Wahrnehmung wurden die Hauptanalysen zur Beantwortung der Forschungsfragen ausschließlich mit den moderaten Fällen (n** = 324) durchgeführt, um konfundierende Effekte zu vermeiden.
+- Aufgrund dieser differentiellen Wahrnehmung wurden die Hauptanalysen zur Beantwortung der Forschungsfragen ausschließlich mit den moderaten Fällen (*n* = 324) durchgeführt, um konfundierende Effekte zu vermeiden.
 
 <p align="center">
   <img src="figures/Interaktionseffekt.png" width="650"/>
