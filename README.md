@@ -46,6 +46,10 @@ Einordnung der Kommunikationsstile entlang der Dimensionen Wärme und Kompetenz.
   <img src="figures/forschungsmodell1.png" width="600"/>
 </p>
 
+## Literaturquellen
+Fiske, S. T., Cuddy, A. J. C., & Glick, P. (2007). Universal dimensions of social cognition: Warmth and competence. *Trends in Cognitive Sciences*, *11*(2), 77–83. https://doi.org/10.1016/j.tics.2006.11.005
+Tajfel, H., & Turner, J. C. (1979). *An integrative theory of intergroup conflict.*
+
 ---
 
 ## 📊 Methodik & Stichprobe
