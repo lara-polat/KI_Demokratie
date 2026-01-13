@@ -10,7 +10,7 @@
 </td>
 <td>
 
-Dieses Repository enthält die Analysen unseres Forschungsprojekts, das im Rahmen des Masterprojekts **KI & politische Diskurse: Kann man LLMS nutzen, um Probleme politischer Diskurse zu lösen?** am Institut für Kommunikationswissenschaft und Medienforschung (IfKW) der LMU München durchgeführt wurde. Angesichts wachsender gesellschaftlicher Spaltung untersuchen wir, ob LLM-basierte Chatbots in hochemotionalen Debatten - wie der über Migration - als digitale "Brückenbauer" fungieren können. Durch gezielte Kommunikationsstile sollen sie psychologische Widerstände abbauen und so einen Beitrag zur Reduktion affektiver Polarisierung leisten. 
+Dieses Repository enthält die Analysen unseres Forschungsprojekts, das im Rahmen des Masterprojekts **KI & politische Diskurse: Kann man LLMs nutzen, um Probleme politischer Diskurse zu lösen?** am Institut für Kommunikationswissenschaft und Medienforschung (IfKW) der LMU München durchgeführt wurde. Angesichts wachsender gesellschaftlicher Spaltung untersuchen wir, ob LLM-basierte Chatbots in hochemotionalen Debatten - wie der über Migration - als digitale "Brückenbauer" fungieren können. Durch gezielte Kommunikationsstile sollen sie psychologische Widerstände abbauen und so einen Beitrag zur Reduktion affektiver Polarisierung leisten. 
 
 
 </td>
