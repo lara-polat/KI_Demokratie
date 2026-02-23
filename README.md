@@ -87,28 +87,6 @@ Wir untersuchten, ob ein faktenbasierter Chatbot-Stil die Polarisierung verstär
 - **Fazit zu H1:** Weder H1a noch H1b konnten bestätigt werden. Der direkte Weg vom Kommunikationsstil zur affektiven Polarisierung ist somit nicht signifikant.
 
 
-### Hypothese 2: Vertrauen als Schlüssel zur Reaktanzminderung
-In diesem Analyseschritt untersuchten wir den Zusammenhang zwischen dem Vertrauen in den Chatbot (inkl. wahrgenommene Authentizität) und der ausgelösten psychologischen Reaktanz.
-- **Starker negativer Zusammenhang:** Es zeigt sich eine hochsignifikante Korrelation nach Pearson (r= −.71), was bedeutet: Je vertrauenswürdiger und authentischer der Chatbot wahrgenommen wird, desto geringer fällt die Reaktanz der Nutzer:innen aus.
-
-- **Hohe Varianzaufklärung:** Das Vertrauen fungiert als exzellenter Prädiktor und kann etwa 50 % der Varianz der gesamten Reaktanz erklären (R^2 = .50).
-
-- **Einfluss auf alle drei Reaktanzdimensionen:** Die Regressionsanalyse bestätigt, dass Vertrauen alle drei Reaktanzdimensionen (kognitiv, affektiv und Freiheitseinschränkung) signifikant senkt, wobei der Effekt auf die kognitive Reaktanz am stärksten ausgeprägt ist (R^2 = .57).
-
-- **Robustheit des Effekts:** Im Gegensatz zu anderen Hypothesen ist dieser Effekt universell - er zeigt sich in der gesamten Stichprobe (N = 645) unabhängig davon, ob der Chatbot eine moderate oder extreme politische Meinung vertritt.
-
-- **Fazit zu H2:** Die Hypothese wurde vollständig bestätigt. Vertrauen und die wahrgenommene Authentizität sind entscheidende Faktoren, um psychologische Reaktanz in der Mensch-KI-Interaktion zu minimieren.
-
-### Hypothese 3: Reaktanz als psychologischer Mediator
-In der Mediationsanalyse prüften wir, ob der Kommunikationsstil des Chatbots nicht direkt, sondern über das Auslösen von Reaktanz die affektive Polarisierung beeinflusst.
-
-- **Bestätigung der Mediation (H3a):** Für den faktenbasierten Kommunikationsstil konnte eine vollständige Mediation nachgewiesen werden. Das bedeutet: Der Stil führt zu erhöhter Reaktanz (β = 0.34, p < .01), welche wiederum die affektive Polarisierung signifikant verstärkt (β = 0.72, p < .001).
-
-- **Vollständige Mediation:** Besonders bemerkenswert ist, dass der direkte Einfluss des faktenbasierten Stils auf die Polarisierung vollständig verschwand, sobald die Reaktanz als Vermittler berücksichtigt wurde (β = −0.004,p = .992). Die psychologische Abwehrreaktion ist somit der entscheidende Treiber für den Backfire-Effekt.
-
-- **Gemischter Stil (H3b):** Für den gemischten KS konnte keine signifikante Mediation bestätigt werden. Er unterschied sich in seiner Wirkung auf die Reaktanz nicht signifikant vom empathischen Basis-Stil (β = 0.16,p = .208), weshalb H3b verworfen werden musste.
-
-
 ### Forschungsfrage 1: Differenzierte Betrachtung der Reaktanzdimensionen
 Zusätzlich zur Gesamtreaktanz untersuchten wir mittels einer multivariaten Varianzanalyse (MANOVA), wie der Kommunikationsstil die drei spezifischen Dimensionen der Reaktanz – *kognitiv, affektiv und Freiheitseinschränkung* – beeinflusst.
 
@@ -119,6 +97,30 @@ Zusätzlich zur Gesamtreaktanz untersuchten wir mittels einer multivariaten Vari
 - **Empathie als Schutzfaktor:** Der empathische Kommunikationsstil erzielte durchgehend die niedrigsten Werte. Post-hoc-Tests verdeutlichen, dass sich der faktenbasierte Stil insbesondere vom empathischen Stil signifikant unterscheidet (alle p < .03).
 
 - **Fazit zu F1:** Während der gemischte und empathische Stil emotional ähnlich positiv aufgenommen werden, provoziert der rein faktenbasierte Stil über alle Reaktanzdimensionen hinweg deutlich mehr Abwehrverhalten.
+
+
+### Hypothese 2: Reaktanz als psychologischer Mediator
+In der Mediationsanalyse prüften wir, ob der Kommunikationsstil des Chatbots nicht direkt, sondern über das Auslösen von Reaktanz die affektive Polarisierung beeinflusst.
+
+- **Bestätigung der Mediation (H2a):** Für den faktenbasierten Kommunikationsstil konnte eine vollständige Mediation nachgewiesen werden. Das bedeutet: Der Stil führt zu erhöhter Reaktanz (β = 0.34, p < .01), welche wiederum die affektive Polarisierung signifikant verstärkt (β = 0.72, p < .001).
+
+- **Vollständige Mediation:** Besonders bemerkenswert ist, dass der direkte Einfluss des faktenbasierten Stils auf die Polarisierung vollständig verschwand, sobald die Reaktanz als Vermittler berücksichtigt wurde (β = −0.004,p = .992). Die psychologische Abwehrreaktion ist somit der entscheidende Treiber für den Backfire-Effekt.
+
+- **Gemischter Stil (H2b):** Für den gemischten KS konnte keine signifikante Mediation bestätigt werden. Er unterschied sich in seiner Wirkung auf die Reaktanz nicht signifikant vom empathischen Basis-Stil (β = 0.16,p = .208), weshalb H3b verworfen werden musste.
+
+
+### Hypothese 3: Vertrauen als Schlüssel zur Reaktanzminderung
+In diesem Analyseschritt untersuchten wir den Zusammenhang zwischen dem Vertrauen in den Chatbot (inkl. wahrgenommene Authentizität) und der ausgelösten psychologischen Reaktanz.
+- **Starker negativer Zusammenhang:** Es zeigt sich eine hochsignifikante Korrelation nach Pearson (r= −.71), was bedeutet: Je vertrauenswürdiger und authentischer der Chatbot wahrgenommen wird, desto geringer fällt die Reaktanz der Nutzer:innen aus.
+
+- **Hohe Varianzaufklärung:** Das Vertrauen fungiert als exzellenter Prädiktor und kann etwa 50 % der Varianz der gesamten Reaktanz erklären (R^2 = .50).
+
+- **Einfluss auf alle drei Reaktanzdimensionen:** Die Regressionsanalyse bestätigt, dass Vertrauen alle drei Reaktanzdimensionen (kognitiv, affektiv und Freiheitseinschränkung) signifikant senkt, wobei der Effekt auf die kognitive Reaktanz am stärksten ausgeprägt ist (R^2 = .57).
+
+- **Robustheit des Effekts:** Im Gegensatz zu anderen Hypothesen ist dieser Effekt universell - er zeigt sich in der gesamten Stichprobe (N = 645) unabhängig davon, ob der Chatbot eine moderate oder extreme politische Meinung vertritt.
+
+- **Fazit zu H3:** Die Hypothese wurde vollständig bestätigt. Vertrauen und die wahrgenommene Authentizität sind entscheidende Faktoren, um psychologische Reaktanz in der Mensch-KI-Interaktion zu minimieren.
+
 
 ---
 
