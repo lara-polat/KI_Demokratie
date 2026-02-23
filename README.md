@@ -43,7 +43,7 @@ Einordnung der Kommunikationsstile entlang der Dimensionen Wärme und Kompetenz.
 ## Forschungsleitendes Modell
 
 <p align="center">
-  <img src="figures/forschungsmodell1.png" width="600"/>
+  <img src="figures/forschungsmodell2.png" width="600"/>
 </p>
 
 ## Literaturquellen
